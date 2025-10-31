@@ -177,23 +177,23 @@ Frontend files (HTML, CSS, JS) can be placed inside the `/frontend` directory.
 
 👥 Team Members
 
-#A V K Shaileshwaran — Product Manager
+###A V K Shaileshwaran — Product Manager
 
 Responsible for project planning, feature prioritization, and AI integration strategy.
 
-#Jayasree — Business Analyst
+###Jayasree — Business Analyst
 
 Handles requirement gathering, workflow documentation, and data analysis.
 
-#Vijay Vignesh — Developer
+###Vijay Vignesh — Developer
 
 Focused on backend development, API integration, and machine learning pipeline implementation.
 
-#Jonna — UI/UX Designer
+###Jonna — UI/UX Designer
 
 Designs dashboard interface, optimizes user experience, and manages frontend visuals.
 
-#Muckthar Ahamed R — Tester
+###Muckthar Ahamed R — Tester
 
 Conducts quality assurance, API testing, and validation of predictive model outputs.
 
