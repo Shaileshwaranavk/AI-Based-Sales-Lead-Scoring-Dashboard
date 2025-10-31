@@ -1,0 +1,101 @@
+Lead_ID,Domain,Lead_Source,Country,Annual_Revenue,Employee_Count,Website_Visits,Email_Opens,Pages_Viewed,Avg_Session_Duration,Previous_Purchases,Time_Since_Last_Interaction
+U001,Technology,Website,USA,540000,130,15,6,23,4.5,2,12
+U002,Healthcare,LinkedIn,India,310000,90,10,4,15,3.2,0,45
+U003,Manufacturing,Referral,Germany,780000,200,16,7,28,5.1,3,8
+U004,Education,Email Campaign,UK,180000,45,8,3,12,2.8,0,60
+U005,Finance,Website,USA,910000,170,15,6,30,5.3,4,5
+U006,E-commerce,Social Media,Canada,650000,130,13,5,25,4.7,2,10
+U007,Energy,Referral,Australia,850000,300,12,4,20,4.2,1,20
+U008,Telecom,Website,India,720000,150,11,5,22,4.1,2,14
+U009,Travel,Email Campaign,USA,460000,95,9,3,16,3.0,0,55
+U010,Real Estate,LinkedIn,UAE,880000,220,14,6,27,4.9,3,7
+U011,Logistics,Website,Germany,600000,180,13,5,24,4.3,2,11
+U012,Marketing,Referral,UK,400000,90,8,3,18,3.4,0,30
+U013,Gaming,Social Media,Canada,350000,60,9,4,17,3.6,1,25
+U014,Non-Profit,Email Campaign,India,150000,40,7,3,11,2.7,0,70
+U015,Agriculture,Referral,Australia,300000,70,9,3,15,3.1,0,48
+U016,Fintech,Website,USA,940000,190,16,7,29,5.4,5,3
+U017,Social Media,LinkedIn,UK,480000,100,11,5,21,4.0,2,17
+U018,Hospitality,Email Campaign,India,410000,120,9,3,18,3.5,0,42
+U019,Construction,Website,Germany,750000,250,12,4,26,4.6,3,9
+U020,Legal,Referral,USA,500000,80,10,4,19,3.8,1,28
+U021,Technology,Website,India,620000,140,13,5,24,4.4,2,13
+U022,E-commerce,LinkedIn,UK,700000,120,12,5,23,4.5,1,19
+U023,Healthcare,Referral,Canada,340000,80,9,3,14,3.0,0,40
+U024,Finance,Website,USA,890000,200,14,6,29,5.2,4,6
+U025,Education,Social Media,Australia,230000,50,9,4,17,3.3,0,33
+U026,Manufacturing,Referral,Germany,780000,210,11,4,22,4.1,1,21
+U027,Telecom,Website,India,670000,150,12,5,25,4.2,2,16
+U028,Travel,Email Campaign,UK,430000,90,9,3,16,3.1,0,51
+U029,Real Estate,Website,UAE,910000,240,14,6,28,4.9,3,8
+U030,Logistics,LinkedIn,USA,580000,170,12,5,22,4.0,1,18
+U031,Energy,Referral,Canada,820000,300,10,4,21,4.2,1,23
+U032,Gaming,Social Media,India,370000,65,8,4,16,3.6,1,27
+U033,Marketing,Website,UK,450000,100,11,5,20,4.0,1,15
+U034,Fintech,Referral,USA,970000,220,15,7,31,5.5,5,4
+U035,Education,LinkedIn,Germany,240000,60,9,4,17,3.4,0,36
+U036,Technology,Website,India,640000,130,12,5,23,4.3,2,12
+U037,Healthcare,Email Campaign,Australia,340000,70,8,3,13,3.0,0,44
+U038,Finance,Website,USA,920000,200,15,6,29,5.3,4,6
+U039,Real Estate,Referral,UAE,890000,210,13,5,26,4.7,3,9
+U040,Travel,LinkedIn,Canada,450000,95,9,3,16,3.0,0,52
+U041,E-commerce,Website,India,700000,140,13,5,25,4.4,2,15
+U042,Energy,Referral,Germany,860000,290,11,4,23,4.1,1,22
+U043,Manufacturing,Website,UK,780000,200,12,5,27,4.5,2,11
+U044,Marketing,Email Campaign,USA,420000,95,8,3,18,3.4,0,35
+U045,Legal,Referral,India,510000,80,9,4,19,3.7,1,26
+U046,Logistics,Website,Canada,640000,160,12,5,24,4.3,2,12
+U047,Fintech,LinkedIn,USA,960000,210,15,6,30,5.4,4,5
+U048,Social Media,Referral,UK,480000,90,10,4,20,3.8,1,20
+U049,Technology,Website,India,630000,125,12,5,23,4.2,2,13
+U050,Gaming,Social Media,Germany,390000,70,9,4,17,3.6,1,24
+U051,Healthcare,Website,Australia,360000,80,8,3,14,3.1,0,43
+U052,Travel,Referral,India,430000,95,9,3,15,3.2,0,50
+U053,Education,Website,Canada,210000,45,8,4,17,3.4,0,39
+U054,Finance,Email Campaign,USA,940000,190,15,6,28,5.3,4,6
+U055,E-commerce,LinkedIn,UK,720000,130,13,5,25,4.4,2,14
+U056,Energy,Referral,Germany,870000,310,11,4,23,4.2,1,21
+U057,Manufacturing,Website,USA,760000,210,13,5,26,4.6,2,9
+U058,Legal,LinkedIn,India,490000,85,9,4,19,3.8,1,27
+U059,Technology,Referral,Canada,680000,140,11,5,24,4.3,2,12
+U060,Real Estate,Website,UAE,900000,230,14,6,28,4.8,3,7
+U061,Gaming,Social Media,UK,350000,60,9,4,16,3.5,1,26
+U062,Marketing,Referral,India,400000,95,8,3,18,3.4,0,31
+U063,Telecom,Website,USA,690000,150,12,5,25,4.3,2,15
+U064,Education,Email Campaign,Australia,200000,50,8,4,16,3.3,0,38
+U065,Finance,Website,USA,950000,200,15,6,30,5.5,5,4
+U066,Healthcare,Referral,Germany,320000,70,8,3,13,3.0,0,42
+U067,Energy,Website,Canada,840000,280,12,4,24,4.4,2,10
+U068,Technology,LinkedIn,India,610000,120,11,5,23,4.2,1,18
+U069,Travel,Referral,UK,440000,90,8,3,15,3.1,0,47
+U070,Manufacturing,Website,USA,750000,220,13,5,26,4.5,2,9
+U071,E-commerce,Email Campaign,India,680000,130,11,5,23,4.1,2,17
+U072,Logistics,Referral,Germany,600000,150,10,4,20,3.9,1,24
+U073,Fintech,Website,USA,930000,210,15,6,30,5.4,4,5
+U074,Gaming,Social Media,Canada,360000,65,9,4,17,3.6,1,25
+U075,Education,Website,UK,230000,55,8,4,17,3.4,0,37
+U076,Marketing,LinkedIn,India,410000,100,9,3,19,3.6,1,20
+U077,Healthcare,Referral,Australia,350000,85,8,3,14,3.0,0,41
+U078,Technology,Website,USA,620000,135,12,5,24,4.3,2,11
+U079,Real Estate,Referral,UAE,880000,230,13,5,27,4.7,3,8
+U080,Energy,Website,Germany,870000,290,14,6,29,4.8,3,7
+U081,Finance,LinkedIn,India,920000,180,14,6,28,5.2,4,5
+U082,Social Media,Website,Canada,480000,90,11,5,21,4.0,1,18
+U083,Manufacturing,Referral,UK,740000,210,10,4,22,4.0,1,23
+U084,Telecom,Website,India,700000,160,12,5,25,4.3,2,15
+U085,Education,Email Campaign,Germany,220000,50,8,4,16,3.3,0,39
+U086,Travel,Website,Australia,450000,95,10,3,17,3.2,0,46
+U087,Marketing,Referral,USA,420000,100,9,3,18,3.5,1,22
+U088,Gaming,Social Media,UK,380000,70,9,4,17,3.6,1,24
+U089,Energy,Website,India,830000,280,13,5,26,4.6,3,9
+U090,Technology,LinkedIn,Germany,640000,120,11,5,23,4.2,2,14
+U091,Finance,Referral,USA,950000,200,15,6,30,5.5,5,3
+U092,Real Estate,Website,UAE,910000,240,14,6,29,4.9,3,7
+U093,Healthcare,Email Campaign,India,330000,75,8,3,14,3.0,0,43
+U094,E-commerce,Website,UK,710000,150,12,5,25,4.3,2,15
+U095,Education,LinkedIn,Australia,240000,60,9,4,17,3.5,0,34
+U096,Fintech,Referral,USA,960000,220,15,7,31,5.6,5,4
+U097,Manufacturing,Website,Germany,780000,200,13,5,27,4.5,2,10
+U098,Social Media,Referral,India,460000,90,10,4,20,3.8,1,19
+U099,Travel,Website,Canada,430000,100,9,3,16,3.1,0,49
+U100,Technology,Website,USA,620000,130,12,5,24,4.3,2,12

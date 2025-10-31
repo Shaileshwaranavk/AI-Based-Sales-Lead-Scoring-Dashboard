@@ -1,0 +1,2 @@
+customer_id,name,email,company,industry,country,product_interested,revenue_potential,conversion_rate,review_text,Conversion_Rate
+1,John Smith,john.smith@alphacorp.com,Alpha Corp,Technology,USA,SmartCRM Pro,80000.0,75.0,Excellent product! The CRM helped our sales team boost conversions by 20% in a month.,75.0

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Predictive Lead Prioritizer</title>
+    <link rel="stylesheet" href="styles.css">
+    <script defer src="dashboard.js"></script>
+</head>
+<body class="bg-gray-50 text-gray-900">
+    <header class="p-4 bg-white shadow-sm sticky top-0 z-50">
+        <h1 class="text-2xl font-bold text-blue-700">📊 Predictive Lead Prioritizer</h1>
+        <p class="text-sm text-gray-600">AI + ML Hybrid Lead Scoring Dashboard</p>
+    </header>
+
+    <main class="max-w-5xl mx-auto p-6">
+        <!-- Input Form -->
+        <section class="bg-white p-6 rounded-lg shadow-md fade-in">
+            <h2 class="text-xl font-semibold mb-4">Upload Data & Product Info</h2>
+
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                    <label class="block text-sm font-medium">Product Name</label>
+                    <input id="productName" type="text" placeholder="e.g., SmartCRM Pro"
+                           class="w-full border rounded p-2 mt-1">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium">Product Description</label>
+                    <textarea id="productDescription" rows="2" placeholder="Enter brief description"
+                              class="w-full border rounded p-2 mt-1"></textarea>
+                </div>
+            </div>
+
+            <div class="mt-4">
+                <label class="block text-sm font-medium">Product Features (comma-separated)</label>
+                <input id="productFeatures" type="text" placeholder="Lead tracking, Email automation, etc."
+                       class="w-full border rounded p-2 mt-1">
+            </div>
+
+            <div class="mt-6 grid grid-cols-1 md:grid-cols-2 gap-4">
+                <div>
+                    <label class="block text-sm font-medium">New Leads CSV</label>
+                    <input id="newDataFile" type="file" accept=".csv" class="mt-1">
+                </div>
+                <div>
+                    <label class="block text-sm font-medium">Labeled Data CSV (optional)</label>
+                    <input id="labeledDataFile" type="file" accept=".csv" class="mt-1">
+                </div>
+            </div>
+
+            <div class="mt-6 flex justify-end">
+                <button id="generateBtn" onclick="generatePredictions()"
+                        class="btn-primary text-white px-5 py-2 rounded-md">🚀 Generate Predictions</button>
+            </div>
+        </section>
+
+        <!-- Loading Indicator -->
+        <section id="loadingSection" class="hidden text-center mt-8">
+            <div class="spinner mx-auto mb-3 border-4 border-blue-500 border-t-transparent rounded-full w-10 h-10"></div>
+            <p class="text-blue-600 font-medium">Analyzing leads... Please wait.</p>
+        </section>
+
+        <!-- Notifications -->
+        <section id="notificationArea" class="mt-4"></section>
+
+        <!-- Results -->
+        <section class="mt-8 bg-white p-6 rounded-lg shadow-md fade-in">
+            <h2 class="text-xl font-semibold mb-4">Lead Prediction Results</h2>
+            <div id="resultsTable" class="overflow-x-auto"></div>
+        </section>
+    </main>
+
+    <footer class="text-center text-gray-500 text-sm py-4">
+        © 2025 Predictive Lead Prioritizer • Powered by AI Hybrid Engine
+    </footer>
+</body>
+</html>
