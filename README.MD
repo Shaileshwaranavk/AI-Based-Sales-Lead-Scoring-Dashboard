@@ -175,7 +175,7 @@ Frontend files (HTML, CSS, JS) can be placed inside the `/frontend` directory.
 
 ---
 
-👥 Team Members
+### 👥 Team Members
 
 ### A V K Shaileshwaran — Product Manager
 
